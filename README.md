@@ -30,3 +30,36 @@ FreeAds project
 #### Getting Started
 
 ```bash
+
+1. Install the php packet "composer"
+sudo apt install composer
+
+2. Create your laravel project
+composer create-project laravel/laravel <project name>
+
+3. Launch the project
+php artisan serv
+
+4. You can copy and git clone the following link to your CMD : git@github.com:EpitechWebAcademiePromo2023/W-PHP-502-STG-2-1-Freeads-ambre.barah.git
+
+```
+
+### Run the server 
+
+```bash 
+
+php artisan serv 
+```
+    
+## Documentation
+
+[Link of the subject](https://intra.epitech.eu/module/2021/W-PHP-502/STG-2-1/acti-513269/project/file/free_ads.pdf)
+
+## Author
+
+- [Ambre BARAH](https://github.com/ambrebarah)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at ambre.barah@epitech.eu
